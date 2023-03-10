@@ -1,6 +1,6 @@
 import math 
-doll = 4500.99
-cot =  4.3
+doll = float(input("Entre o valor do dollar: "))
+cot =  4.3 #cotação do dollar
 
 valor_convert = doll *cot
 
