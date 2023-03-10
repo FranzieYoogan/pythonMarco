@@ -1,5 +1,5 @@
-comp = 3
-larg = 4
+comp = int(input("Entre o valor do comprimento: "))
+larg = int(input("Entre o valor da largura: "))
 area =  comp * larg
 
 
