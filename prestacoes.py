@@ -1,4 +1,4 @@
-valor_compra = 3000
+valor_compra = float(input("Entre o valor da compra: "))
 
 valor_prestacao = valor_compra/5
 
